@@ -11,10 +11,12 @@ const ContactForm = () => {
     control,
     handleSubmit,
     formState: { errors },
+    reset,
   } = useContactForm();
 
   const onSubmit: SubmitHandler<FormSchemaType> = (values) => {
     console.log(values);
+    reset();
   };
 
   return (
