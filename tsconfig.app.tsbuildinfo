@@ -1,0 +1,1 @@
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/button.tsx","./src/components/checkbox.tsx","./src/components/contactform.tsx","./src/components/input.tsx","./src/components/radiobutton.tsx","./src/components/radiogroup.tsx","./src/components/textarea.tsx","./src/hooks/usecontactform.ts"],"version":"5.6.2"}
